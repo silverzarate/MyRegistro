@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+        <menu xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:android="http://schemas.android.com/apk/res/android">
+
+            <item
+                android:id="@+id/menuAgregar"
+                android:title="Registrar Producto 📦" />
+
+            <item android:id="@+id/menuServicio"
+             android:title="Registrar Servicio 👷🏻‍♂️"
+             />
+
+       <item android:id="@+id/menuCalculadora"
+        android:title="Calculadora  ⌨️"
+        />
+            <item android:id="@+id/menuContactos"
+                 android:title="Contactos  👥" />
+
+        <item android:id="@+id/menuCamara"
+        android:title="Camara  📷 "
+        />
+        <item android:id="@+id/menuJuego"
+        android:title="Juego  🎮 "
+        />
+
+            <item android:id="@+id/menuSalir"
+             android:title="Salir"
+
+             />
+
+       </menu>
